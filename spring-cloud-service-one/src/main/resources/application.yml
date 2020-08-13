@@ -1,8 +1,0 @@
-server:
-  port: 9091
-  ssl:
-    enabled: true
-    # key-alias: scg
-    key-store-password: svn4ever
-    key-store: classpath:keystore.jks
-    key-store-type: JKS

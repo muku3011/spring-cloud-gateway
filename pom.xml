@@ -12,8 +12,7 @@
 
     <modules>
         <module>spring-cloud-gateway</module>
-        <module>spring-cloud-service-one</module>
-        <module>spring-cloud-service-two</module>
+        <module>spring-cloud-service</module>
     </modules>
 
     <properties>
